@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<go-plugin id="org.sauldhernandez.MavenTaskPlugin" version="1">
+    <about>
+        <name>Maven Task Plugin</name>
+        <version>1.0</version>
+        <target-go-version>12.4</target-go-version>
+        <description>Allows the running of maven as a task</description>
+        <vendor>
+            <name>Saúl Hernández</name>
+            <url>https://github.com/sauldhernandez/go-maven-plugin</url>
+        </vendor>
+    </about>
+</go-plugin>
