@@ -60,7 +60,6 @@ public class MavenTaskPlugin implements Task
                     request.setBaseDirectory(new File(context.workingDir(), taskConfig.getValue(WORKDIR_KEY)));
 
                     Invoker invoker = new DefaultInvoker();
-                    invoker.setMavenHome()
 
                     try {
                         InvocationResult result = invoker.execute(request);
