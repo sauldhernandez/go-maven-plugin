@@ -7,7 +7,7 @@
         <description>Allows the running of maven as a task</description>
         <vendor>
             <name>Saúl Hernández</name>
-            <url>https://github.com/sauldhernandez/go-maven-plugin</url>
+            <url>github.com/sauldhernandez/go-maven-plugin</url>
         </vendor>
     </about>
 </go-plugin>
